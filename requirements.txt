@@ -1,6 +1,5 @@
 opencv-python
 mediapipe
 deepface
-tkinter
 pillow
 pyttsx3
